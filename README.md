@@ -37,23 +37,37 @@ It demonstrates a simple e-commerce workflow — product listing, cart managemen
 ---
 
 ##  Folder Structure
-/backend
-┣ controllers/
-┣ routes/
-┣ models/
-┣ db.js
-┣ server.js
-┗ package.json
+project-name/
+|-- frontend/
+|   |-- src/
+|   |   |-- components/
+|   |   |-- context/
+|   |   |-- lib
+|   |   |-- pages/
+|   |   |-- App.jsx
+|   |   |-- index.css
+|   |   `-- main.jsx
+|   |-- package.json
+|
+|-- backend/
+|   |-- node_modules
+|   |-- src/
+|   |   |-- controllers/
+|   |   |-- routes/
+|   |   |-- app.js
+|   |   `-- server.js
+|   |
+|   |-- package-lock.json
+|   `-- package.json
+|
+|-- screenshots/
+|   |-- homepage.png
+|   |-- cart.png
+|   `-- checkout.png
+|
+|-- README.md
 
-/frontend
-┣ src/
-┃ ┣ components/
-┃ ┣ pages/
-┃ ┣ api/
-┃ ┗ App.jsx
-┗ package.json
 
-README.md
 
 
 ---
@@ -87,5 +101,5 @@ npm run dev
 ### 🛒 Cart Page
 ![Cart Page](./screenshots/cart.png)
 
-### 💳 Checkout Receipt
-![Checkout Receipt](./screenshots/checkout.png)
+### 💳 Checkout
+![Checkout](./screenshots/checkout.png)
