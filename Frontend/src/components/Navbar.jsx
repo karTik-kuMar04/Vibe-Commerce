@@ -14,7 +14,7 @@ const Navbar = ({ currentPage, onNavigate }) => {
               onClick={() => onNavigate('products')}
               className="text-2xl font-bold text-gray-900 hover:text-gray-700 transition-colors"
             >
-              Mock E-Com
+              Vibe Commerce
             </button>
           </div>
 
