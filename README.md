@@ -35,8 +35,8 @@ It demonstrates a simple e-commerce workflow — product listing, cart managemen
 - Includes CORS, JSON parsing, and clean controller/route structure
 
 ---
-```bash
 ##  Folder Structure
+```bash
 Vibe Commerce/
 |-- frontend/
 |   |-- src/
