@@ -12,6 +12,13 @@ It demonstrates a simple e-commerce workflow — product listing, cart managemen
 
 ---
 
+---
+## loom demo video
+
+Watch the full project walkthrough here: 
+[Loom Demo Video](https://www.loom.com/share/8da03ddc4f20475fbf7c0a11cb0bdb5e)
+---
+
 ##  Features
 
 ###  Frontend (React)
