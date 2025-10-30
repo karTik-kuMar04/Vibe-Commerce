@@ -12,7 +12,6 @@ It demonstrates a simple e-commerce workflow — product listing, cart managemen
 
 ---
 
----
 ## loom demo video
 
 Watch the full project walkthrough here: 
