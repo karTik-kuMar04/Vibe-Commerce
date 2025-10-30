@@ -77,3 +77,15 @@ npm run dev
 
 
 
+
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./screenshots/homepage.png)
+
+### 🛒 Cart Page
+![Cart Page](./screenshots/cart.png)
+
+### 💳 Checkout Receipt
+![Checkout Receipt](./screenshots/checkout.png)
